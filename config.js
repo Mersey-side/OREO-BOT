@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '254102028964', process.env.OWNER_NAME || 'Merseyside', true],
+  ['919637987574', 'Shizo Techie ❤️✨', false]
 ]
-global.mods = []
-global.prems = []
+global.mods = [0102028964]
+global.prems = [0102028964]
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Merseyside'
+global.botname = process.env.BOT_NAME || '𝕄𝕖𝕣𝕤𝕖𝕪𝕤𝕚𝕕𝕖✰❃✰'
  
  
  //Api's
